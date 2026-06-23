@@ -1,0 +1,6 @@
+{
+  "name": "TendLine AI Growth Infrastructure",
+  "description": "High-impact enterprise AI growth systems and operational infrastructure for the Home Services industry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

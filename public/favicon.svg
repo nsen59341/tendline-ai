@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#1A1A1A"/>
+  <!-- Top bar of T -->
+  <path d="M9 10h14" stroke="#EAE7DD" stroke-width="2.5" stroke-linecap="square" fill="none"/>
+  <!-- Stem of T and base of L -->
+  <path d="M16 10v12h7" stroke="#99775C" stroke-width="2.5" stroke-linecap="square" fill="none"/>
+</svg>
